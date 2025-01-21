@@ -1,0 +1,26 @@
+Astoria AI Company Profile:
+
+Our mission
+We believe that people have indispensable human need to realize their full potential. Our mission is to help people find highest point of contribution and help organizations to attract those people and build sustained practices of motivating and retaining talent.
+
+Our Platform
+-	helps you recruit, train, and promote people whose skills and aspirations aligned with your business priorities
+-	helps your people unlock their fullest potential
+-	helps every candidate and employee find highest point of contribution in your organization
+
+Key elements
+1.	Prediction
+-	Using AI powered tools and algorithms we predict hiring needs before they happen
+2.	Building and updating database
+-	Organize, and structure data 
+-	Automated updating
+3.	Matching
+-	Develop algorithms to train AI and ML models
+4.	Interface
+-	Facilitate and coordinate interview 
+-	Scheduling
+-	Tracking
+-	Videoconferencing
+-	Onboarding
+
+We are not a third party placement firm or a recruitment agency. We are a tech startup building a global talent intelligence platform powered by Artificial Intelligence. When the platform is launched we will sell software subscriptions to companies based on SaaS model. We do not charge students.

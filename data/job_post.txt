@@ -1,0 +1,67 @@
+Astoria AI - Gen AI Software Developer Intern
+
+ 
+
+Astoria AI (http://www.astoria.ai) is an early-stage startup focused on building human-centered global talent intelligence platform powered by Artificial Intelligence. At Astoria AI we believe that people have indispensable human need to realize their full potential. Our mission is to help people to unlock their potential and help organizations to attract those people and build sustained practices of retaining motivated and most qualified talent.
+
+  
+
+Job Summary:
+
+We are seeking a talented and experienced software developer intern to join our team. The ideal candidate will be working with our team designing, developing, and maintaining software applications using variety of methods including conversational AI, vector search & embeddings, personalization and recommendation systems with ML/LLM-based tools and APIs. They will work closely with the product team to ensure that software applications are designed to meet user needs and business goals.
+
+ 
+
+While this internship offers no cash compensation we provide training and mentorship from senior developers and AI industry experts. Equity shares possible. Become a part of our team and our success story.
+
+Responsibilities: 
+
+- Develop software applications from scratch using LLM-based tools and APIs (both closed- and open-source) 
+
+- Collaborate with other members of our dev team on building reliable and scalable data pipelines for the platform
+
+- Work with the product team to develop application features according to project scope and requirements 
+
+- Test and debug software applications to ensure high-quality, reliable software 
+
+- Continuously improve the performance and scalability of software applications 
+
+- Stay up-to-date with emerging LLM-based tools, techniques, and technologies 
+
+- Collaborate with other developers to integrate LLM-based tools into the software development process 
+
+ 
+
+Requirements: 
+
+- Previous experience in software development, with recent focus on Prompt Engineering and LLM-based tools, AI agents, and APIs
+
+- Working knowledge of prompt programming (DSPy and other frameworks)
+
+- Progression towards Bachelor's degree or higher in Computer Science or related field 
+
+- Strong programming skills in Python, Typescript or Go
+
+- Experience with ChatGPT and other LLM-based tools, including pre-trained models and fine-tuning techniques, and AI agents.
+
+- Familiarity with software development best practices, including version control, automated testing, and continuous integration/continuous deployment (CI/CD) 
+
+- Excellent problem-solving skills and attention to detail 
+
+- Ability to work independently and as part of a team in a quick-paced environment 
+
+- Strong communication skills, both written and verbal 
+
+ 
+
+Project experience requirements: 
+
+- Proven ability and track record of building and deploying conversational AI systems (chatbots, virtual assistants) for multi-turn real-time user interactions
+
+- Experience in NLP, NLU, and NLG to handle complex user queries and provide intelligent, contextual responses
+
+- Knowledge of vector search and retrieval augmented generation (RAG) techniques to build graphs and search through vast amounts of user data
+
+ 
+
+If you are a motivated and innovative developer who is passionate about leveraging LLM-based and AI agent tools to create cutting-edge software applications, we would love to hear from you. This is an exciting opportunity to join a fast-growing startup and make a meaningful impact on the talent management industry.
